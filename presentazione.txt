@@ -1,0 +1,11 @@
+- name stefano
+-surname capra
+-age 28
+-city parma
+-hobby tennis
+-favoriteFood pizza
+-favoriteVideoGame fifa
+-favoriteFilm lotr
+-favoriteBook war and peace
+-petName ciro
+
