@@ -1,11 +1,11 @@
-- name stefano
--surname capra
--age 28
--city parma
--hobby tennis
--favoriteFood pizza
--favoriteVideoGame fifa
--favoriteFilm lotr
--favoriteBook war and peace
--petName ciro
+- name: Lorenzo
+-surname: Capra
+-age: 28
+-city: Prato
+-hobby: Gym
+-favoriteFood: Carbonara
+-favoriteVideoGame: Call of Duty
+-favoriteFilm: Wolf of Wall street
+-favoriteBook: Tribù
+-petName: none
 
