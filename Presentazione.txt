@@ -1,0 +1,8 @@
+Name : Manuela
+Surname : Rizzuto
+Age : 41
+City : Palermo
+Hobby : Read books, Swimm
+Favourite food : Pizza, patatine, ice cream
+Favourite film : Joker
+Pet name : Oliver
